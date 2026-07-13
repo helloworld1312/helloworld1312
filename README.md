@@ -1,6 +1,6 @@
 # ❤️ Mission 
 I believe software should make people's lives genuinely better.
-Not always more productive. Better.
+Not always more productive.
 
 # 👋 About Me:
 🖥 I'am mobile developer coding with react native <br>🔧 I'm working on Atlasys
